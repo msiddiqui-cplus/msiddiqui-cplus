@@ -30,11 +30,7 @@ Into NLP (with a dash of CV), currently diving into Agentic AI, and always up fo
 ![Twilio](https://img.shields.io/badge/-Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white)
-- IDE: VS Code 1.97.1
-- OS: Linux, Windows 10
-- LinkedIn: marriamsiddiqui
-- Discord: msiddiqui_
-- I know Python, LaTex, 
+
 ## Reach me at
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marriam.siddiqui@gmail.com)
 
