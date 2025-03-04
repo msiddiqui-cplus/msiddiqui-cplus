@@ -15,7 +15,7 @@ Into NLP (with a dash of CV), currently diving into Agentic AI, and always up fo
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Kibana](https://img.shields.io/badge/-Kibana-F04E98?style=flat&logo=kibana&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-FFC300?style=flat&logo=langchain&logoColor=black)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
